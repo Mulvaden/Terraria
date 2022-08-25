@@ -1,29 +1,9 @@
-img {
+.toplogo {
     display: flex;
     align-items: center;
     justify-content: center;
     margin: auto;
     padding-top: 50px;
-}
-
-
-body {
-    background-image: url("img/Cavern_background.jpg");
-    color: white;
-
-}
-
-h4 {
-    text-align: center;
-    margin: auto;
-    width: 500px;
-    background-color: aqua;
-
-}
-.reg {
-    display: flex;
-    flex-direction: column;
-    padding: 20px 600px 20px 600px;
 }
 
 /* nav */
@@ -45,11 +25,27 @@ h4 {
   }
   
   .topnav a:hover {
-    background-color: #ddd;
+    background-color: #875F41;
     color: black;
   }
-  
-  .topnav a.active {
-    background-color: #875F41;
+
+
+body {
+    background-image: url("img/Cavern_background.jpg");
     color: white;
-  }
+
+}
+
+h4 {
+    text-align: center;
+    margin: auto;
+    width: 500px;
+    background-color: aqua;
+
+}
+.reg {
+    display: flex;
+    flex-direction: column;
+    padding: 20px 600px 20px 600px;
+}
+
