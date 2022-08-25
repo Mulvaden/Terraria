@@ -6,8 +6,10 @@ img {
     padding-top: 50px;
 }
 
+
 body {
     background-image: url("img/Cavern_background.jpg");
+    color: white;
 
 }
 
