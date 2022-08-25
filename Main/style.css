@@ -20,6 +20,13 @@ h4 {
     background-color: aqua;
 
 }
+.reg {
+    display: flex;
+    flex-direction: column;
+    padding: 20px 600px 20px 600px;
+}
+
+/* nav */
 
 .topnav {
     background-color: #333;
