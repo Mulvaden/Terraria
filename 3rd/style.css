@@ -12,13 +12,13 @@ table {
 }
 
 td, th {
-    border: 1px solid black;
+    border: 1px solid rgb(0, 179, 24);
     border-radius: 1px;
     text-align: left;
     padding: 8px;
 }
 
-img {
+.Logo {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -26,6 +26,11 @@ img {
     padding-top: 50px;
     padding-bottom: 20px;
 }
+
+div {
+    margin: auto;
+}
+
 
 /* nav */
 
