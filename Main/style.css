@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+
 img {
     display: flex;
     align-items: center;
@@ -11,18 +13,20 @@ img {
 body {
     background-image: url("img/Cavern_background.jpg");
     color: white;
-
+    font-family: 'Silkscreen', cursive;
 }
 
-h4 {
+p {
     text-align: center;
     margin: auto;
     width: 500px;
-    padding-bottom: 50px;
+    padding: 5PX;
+    border: 2px solid rgb(0, 179, 24);
+    border-radius: 10px;
 
 }
 
-h3 {
+h5 {
   text-align: center;
     margin: auto;
     width: 1000px;
@@ -38,6 +42,7 @@ h3 {
 /* nav */
 
 .topnav {
+    margin-top: 20px;
     background-color: #333;
     overflow: hidden;
     display: flex;
@@ -56,9 +61,4 @@ h3 {
   .topnav a:hover {
     background-color: #ddd;
     color: black;
-  }
-  
-  .topnav a.active {
-    background-color: #875F41;
-    color: white;
   }
