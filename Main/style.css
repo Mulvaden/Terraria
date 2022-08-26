@@ -4,8 +4,40 @@
     justify-content: center;
     margin: auto;
     padding-top: 50px;
+    padding-bottom: 20px;
 }
 
+<<<<<<< HEAD
+=======
+
+body {
+    background-image: url("img/Cavern_background.jpg");
+    color: white;
+
+}
+
+h4 {
+    text-align: center;
+    margin: auto;
+    width: 500px;
+    padding-bottom: 50px;
+
+}
+
+h3 {
+  text-align: center;
+    margin: auto;
+    width: 1000px;
+    padding-bottom: 50px;
+
+}
+.reg {
+    display: flex;
+    flex-direction: column;
+    padding: 20px 600px 20px 600px;
+}
+
+>>>>>>> d7bff2f0c52e5dd173c7429bd0d385926cc46683
 /* nav */
 
 .topnav {
