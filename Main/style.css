@@ -36,7 +36,7 @@ h5 {
 .reg {
     display: flex;
     flex-direction: column;
-    padding: 20px 600px 20px 600px;
+    padding: 20px 600px 40px 600px;
 }
 
 /* nav */
