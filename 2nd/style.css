@@ -1,11 +1,12 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
 
 
 body {
     background-image: url("../Main/img/Cavern_background.jpg");
     color: white;
-
+    font-family: 'Silkscreen', cursive;
 }
+
 
 .toplogo {
     display: flex;
